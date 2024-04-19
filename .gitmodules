@@ -1,0 +1,3 @@
+[submodule "amtech-digital"]
+	path = amtech-digital
+	url = git@github.com:abdulsalamamtech/amtech-digital.git
